@@ -1,4 +1,6 @@
 Bora Bora !!! Alteração
 
-
+Digite o seu nome :
+Digite sua idade : 
+Digite seu sexo :    
 
